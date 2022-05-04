@@ -1,0 +1,11 @@
+[models]
+woman_model: resources/models/woman/woman.obj
+
+[textures]
+woman_texture: resources/models/woman/woman.png
+
+[shaders]
+unlit_material_vertex: resources/shaders/unlit_material.vs
+unlit_material_fragment: resources/shaders/unlit_material.fs
+lit_material_vertex: resources/shaders/lit_material.vs
+lit_material_fragment: resources/shaders/lit_material.fs
